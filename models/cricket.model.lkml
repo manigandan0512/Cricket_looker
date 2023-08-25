@@ -14,3 +14,5 @@ datagroup: cricket_default_datagroup {
 
 persist_with: cricket_default_datagroup
 
+
+explore: Player_details {}
