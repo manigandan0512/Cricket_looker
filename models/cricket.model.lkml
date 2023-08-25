@@ -16,3 +16,7 @@ persist_with: cricket_default_datagroup
 
 
 explore: Player_details {}
+explore: country {}
+explore: odi_batting{}
+explore: t20_batting {}
+explore: test_batting{}
